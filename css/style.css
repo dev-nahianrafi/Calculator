@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 600px;
+    margin: 0 auto;
+    /* border: 1px solid #222; */
+    text-align: center;
+    padding: 90px 0;
+}
+.main h1{
+    margin-bottom: 60px;
+}
+.inputtt{
+    width: 300px;
+    height: 50px;
+    padding: 10px;
+}
+.inner{
+    margin: 0 auto;
+    width: 300px;
+}
+.btn_main{
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.onee{
+    padding: 30px;
+}
+.twoo{
+    padding: 30px;
+}
+.threee{
+    padding: 30px;
+}
+.plus{
+    padding: 30px;
+}
+.inner_2nd{
+    display: flex;
+    justify-content: space-between;
+}
+.fourr{
+    padding: 30px;
+}
+.fivee{
+    padding: 30px;
+}
+.sixx{
+    padding: 30px;
+}
+.biyog{
+    padding: 30px;
+}
+.inner_3rd{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.sevenn{
+    padding: 30px;
+}
+.eightt{
+    padding: 30px;
+}
+.ninee{
+    padding: 30px;
+}
+.intoo{
+    padding: 30px;
+}
+.inner_4th{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.zeroo{
+    padding: 30px;
+}
+.divition{
+    padding: 30px;
+}
+.equall{
+    padding: 30px;
+}
+.modulas{
+    padding: 30px;
+}
